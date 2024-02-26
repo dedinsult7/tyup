@@ -1,6 +1,6 @@
 
 let b=prompt(" string ga tegishli malumot")
-let c=+prompt("inferior typedagi malumot kiriting")
+let c=+prompt("info ciritingg")
 
 let a=( Boolean( prompt( "Boolean typedagi malumot kiriting") ) )
 alert(`siz kiritgan ${b} sozi ${typeof (a)} turiga kiradi
